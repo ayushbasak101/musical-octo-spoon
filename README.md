@@ -1,4 +1,4 @@
-````md
+
 # Healthcare Microservices Architecture  
 **Technical Configuration Guide**
 
